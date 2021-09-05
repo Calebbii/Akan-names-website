@@ -15,4 +15,4 @@ Caleb Bii
 ## Support and contact detail
 Email : biicaleb316@gmail.com
 ## License
-https://github.com/Calebbii/Akan-names-website/blob/master/LICENSE
+[MIT Lisence](LISENCE).
