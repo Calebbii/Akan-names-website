@@ -15,6 +15,10 @@ https://calebbii.github.io/Akan-names-website/
 * HTML
 * CSS
 * JAVASCRIPT
+## Setup and Installation Requirements
+clone the repo
+Opening the project on a text editor
+Open the project on a live server
 ## Author
 Caleb Bii
 ## Support and contact detail
