@@ -14,5 +14,6 @@ This is a  web application that takes a user's birthday and calculates the day o
 Caleb Bii
 ## Support and contact detail
 Email : biicaleb316@gmail.com
-## License
-[MIT Lisence](https://github.com/Calebbii/Akan-names-website/blob/master/LICENSE)
+## License and Copyright
+[MIT Lisence](https://github.com/Calebbii/Akan-names-website/blob/master/LICENSE)Copyright (c) 2021 Calebbii
+
