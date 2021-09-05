@@ -15,4 +15,4 @@ Caleb Bii
 ## Support and contact detail
 Email : biicaleb316@gmail.com
 ## License
-[MIT Lisence](LISENCE).
+[MIT Lisence](LISENCE)
