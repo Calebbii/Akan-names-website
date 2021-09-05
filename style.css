@@ -1,0 +1,112 @@
+body {
+    background-color: #FFFCD8;
+}
+/* header*/
+header {
+    background-color: grey;
+    height: 2cm;
+    border-radius: 10px;
+}
+.logo {
+    float: left;
+    margin-left: 2cm;
+}
+nav {
+    float: right;
+    inline-size: 25cm;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+#main {
+    border-radius: 10px;
+}
+.content {
+    margin-bottom: 10cm;
+}
+.content h1 {
+    text-align: center;
+    color: teal;
+}
+.content h2 {
+    text-align: center;
+}
+.content p {
+    text-align: justify;
+    width: 50%;
+}
+.system img {
+    float: right;
+    width: 40%;
+    margin-right: 2cm;
+}
+.system p {
+    margin-left: 2cm;
+    width: 40%;
+    font-size: 25px;
+}
+/*ghanian day names */
+.flag {
+    float: left;
+    width: 50%;
+}
+#list {
+    clear: both;
+    margin-bottom: 4cm;
+}
+#list h1 {
+    text-align: center;
+    color: teal;
+}
+#ghana {
+    margin-top: 2cm;
+}
+.maleList {
+    margin-left: 18cm;
+}
+.femaleList {
+    margin-left: 18cm;
+}
+li {
+    font-size: 20px;
+    margin-left: 1cm;
+}
+h3 {
+    margin-left: 3cm;
+    font-size: 23px;
+}
+/*my akan name*/
+#container {
+    clear: both;
+}
+#container h1 {
+    text-align: center;
+    color: teal;
+}
+.container {
+    text-align: center;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    margin-top: 1cm;
+    background-image: url("https://cdn.cdnparenting.com/articles/2020/11/14164658/319171217.webp");
+}
+.dateOfBirth {
+    margin-left: 2cm;
+}
+#display {
+    border: dotted yellowgreen;
+    height: 2cm;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    margin-top: 1cm;
+}
+footer {
+    background-color: grey;
+    border-radius: 10px;
+    height: 2cm;
+}
+footer p {
+    text-align: center;
+    font-size: 20px;
+}
