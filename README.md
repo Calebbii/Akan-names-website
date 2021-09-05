@@ -7,6 +7,9 @@ This is a  web application that takes a user's birthday and calculates the day o
 https://calebbii.github.io/Akan-names-website/
 
 ## Features
+* Built with HTML, CSS and JavaScript
+* Easy to run
+* Proper Idenation
 
 ## Technologies Used
 * HTML
