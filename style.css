@@ -18,9 +18,7 @@ nav {
 nav ul li {
     display: inline-block;
     padding: 0px 30px;
-}
-a {
-    colour : yellow;
+    color : yellow;
 }    
 #main {
     border-radius: 10px;
